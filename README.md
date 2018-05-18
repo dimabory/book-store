@@ -1,6 +1,8 @@
 # Book Store 
 Book Store is the simple CRUD application.
 
+![Image of Yaktocat](https://i.imgur.com/qPzW6Dc.jpg)
+
 ## Getting Started
 
 ```bash
