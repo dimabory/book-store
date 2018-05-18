@@ -8,7 +8,7 @@
     "build": "node_modules/.bin/webpack --config webpack.config.js --mode=production --env=production",
     "watch": "node_modules/.bin/webpack --config webpack.config.js -w",
     "start:json-server": "node json-server/server.js",
-    "start:dev": "webpack-dev-server",
+    "start:dev": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
